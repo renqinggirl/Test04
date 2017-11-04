@@ -1,0 +1,11 @@
+
+public class Demo {
+<<<<<<< HEAD
+	public static void main(String[] args) {
+		System.out.println("haha");
+	}
+
+=======
+int i=10;
+>>>>>>> c2a4ecc84d33b3a8cde65056a1e6bdf6bcee199d
+}
